@@ -71,7 +71,7 @@
 			text-decoration: none;
 		}
 			#logo-header:hover {
-			color: white;
+			color: red;
 		}
 	
 			#logo-header .site-name {
@@ -124,7 +124,7 @@
 			text-align: left;
 		}
 
-		aside{
+		/*aside{
 			animation-duration: 3s;
 			animation-name: slidein;
 		}
@@ -140,7 +140,7 @@
 				margin-left: 0%;
 				width: 100%;
 			}
-		}
+		}*/
 
 		footer {
 		text-align: center;

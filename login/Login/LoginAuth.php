@@ -43,7 +43,7 @@
 
                 echo "<script>
                   alert('Bienvenido $NombreCompleto');
-                  location.href = '../página web/inicio.php'
+                  location.href = '../index.php'
                 </script>";
             }else {
                 header('Location:../login.php?error=Usuario o clave incorrecta');
